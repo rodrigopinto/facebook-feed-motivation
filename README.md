@@ -1,8 +1,7 @@
 facebook-feed-motivation
 ========================
 
-Facebook Feed Motivation is a Chrome Extension that replace facebook feed by motivational phrase.
-
+Facebook Feed Motivation is a Chrome Extension that replace facebook feed by interesting quotes.
 
 ## Load the extension
 
